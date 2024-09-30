@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240930001716
-! Last modified: 2024/09/30 00:17:16
-! Blocked domains: 169474
+! Version: 20240930090904
+! Last modified: 2024/09/30 09:09:04
+! Blocked domains: 169496
 ! unBlocked domains: 51
 !
 ||00ebjdbagyqwt.club^
@@ -1374,6 +1374,7 @@
 ||2dmuchawa-do-grilla-pl.com^
 ||hacks.2download.eu^
 ||2e55a2d58f.com^
+||2e5e4544c4.com^
 ||2e8dgn8n0e0l.com^
 ||654b11e34e.2eb4977fca.com^
 ||2edef809.xyz^
@@ -2121,6 +2122,7 @@
 ||www.4242uuu.com^
 ||4251.tech^
 ||426g.com^
+||42869755.xyz^
 ||429999d.com^
 ||aa.429men.com^
 ||jo.429men.com^
@@ -4325,6 +4327,7 @@
 ||ablatesgascon.cam^
 ||ablativekeynotemuseum.com^
 ||ablazesubconsciousadulate.com^
+||ableandworldwid.com^
 ||ablebodiedsweatisolated.com^
 ||ablecheap.com^
 ||ablecolony.com^
@@ -8216,6 +8219,7 @@
 ||afm01.com^
 ||go.afmc.org^
 ||afminer.com^
+||afnhc.com^
 ||afnyfiexpecttha.info^
 ||afoaglux.com^
 ||afora.ru^
@@ -39176,6 +39180,7 @@
 ||phublid.costlig.uno^
 ||costperleadaff.com^
 ||costranchill.com^
+||costssco.com^
 ||coststunningconjure.com^
 ||costumefilmimport.com^
 ||www.costumesandcards.co.uk^
@@ -57877,6 +57882,7 @@
 ||fghhbp.xyz^
 ||enhance-config.fgl.com^
 ||fgn.me^
+||fgnfpnae.icu^
 ||fgnzdb.xyz^
 ||fgoogle.com^
 ||fgoqnva.com^
@@ -59498,6 +59504,7 @@
 ||tms.fmm.io^
 ||fmmirep.icu^
 ||fmobserver.com^
+||fmoezqerkepc.com^
 ||fmpub.net^
 ||fmsads.com^
 ||ghnwss.fmsstores.gr^
@@ -60743,6 +60750,7 @@
 ||info.freedomcte.com^
 ||freedomdaily.com^
 ||smetrics.freedomfordsales.ca^
+||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedommedianetwork.com^
 ||strack.freedommobile.ca^
@@ -63618,6 +63626,7 @@
 ||ghostvisitor.com^
 ||web-analytic.ghtk.vn^
 ||dog.ghvenue.com^
+||ghwqbii.icu^
 ||ghxadv.com^
 ||ghyxmovcyj.com^
 ||gi8.us^
@@ -84324,6 +84333,7 @@
 ||kertzmann.com^
 ||kerumal.com^
 ||kerybaa.com^
+||keryt111.fun^
 ||kesabeso.com^
 ||kesarphool.com^
 ||video.kesefinternational.com^
@@ -102353,6 +102363,7 @@
 ||mxcdn.net^
 ||mxcdn1.now.sh^
 ||mxcdn2.now.sh^
+||mxcmwk.xyz^
 ||mxcount.com^
 ||mxdesign.dk^
 ||earthworm.mxdvl.com^
@@ -103960,6 +103971,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi4.ru^
 ||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
@@ -103979,6 +103991,7 @@
 ||navi78.ru^
 ||navi8.com^
 ||navi88.com^
+||navi96.ru^
 ||navi99.com^
 ||naviblue-team.com^
 ||routes.navibration.com^
@@ -110357,6 +110370,7 @@
 ||share.oppvenuz.com^
 ||sharelink.oppvenuz.com^
 ||opqhihiw.com^
+||opqnkw.xyz^
 ||sa.oprah.com^
 ||ssa.oprah.com^
 ||aiq-in.oprahdaily.com^
@@ -114570,6 +114584,7 @@
 ||pinion.gg^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinjamteman.top^
 ||pinjamuang.top^
 ||ebgagg.pink.rs^
@@ -121272,6 +121287,7 @@
 ||pages.mail.puntoscolombia.com^
 ||afaron.punuj.my.id^
 ||gtuza.punuj.my.id^
+||punyauang.xyz^
 ||punyplant.com^
 ||advert.punyu.com^
 ||pupilexpressionscent.com^
@@ -127532,6 +127548,7 @@
 ||rjwljrf.xyz^
 ||ignlnmzi.rjxj.xyz^
 ||incsh.rjxj.xyz^
+||rk6h3.icu^
 ||rkadda.com^
 ||rkapghq.com^
 ||rkatamonju.info^
@@ -130580,6 +130597,7 @@
 ||sanmushicai.com^
 ||sanneusports.com^
 ||sannsyn.com^
+||sanoithmefeyau.com^
 ||analytics.sanoma.fi^
 ||adimages.sanomawsoy.fi^
 ||adserver.sanomawsoy.fi^
@@ -132749,6 +132767,7 @@
 ||lp.seniormalezone.site^
 ||seniorstemsdisability.com^
 ||gov.seniorupdates.us^
+||senitijanghey.shop^
 ||ads.senmanga.com^
 ||senmendai.net^
 ||mktg.senneca.com^
@@ -157628,6 +157647,7 @@
 ||venueitemmagic.com^
 ||updates.venuekings.com^
 ||venuewasadi.org^
+||venusfritter.com^
 ||venusgloria.com^
 ||go.venusgroup.com^
 ||info.venyu.com^
@@ -165714,6 +165734,7 @@
 ||xlgvlvbc.xyz^
 ||xliffnsc.xyz^
 ||b.xlineker.com^
+||xliuits.icu^
 ||xlivesex.com^
 ||xljlzylffe.com^
 ||xlkdbbvy.xyz^
@@ -166820,6 +166841,7 @@
 ||play.yeppz.com^
 ||snap.yeppz.com^
 ||whgbog.yereve.com^
+||yeryt111.fun^
 ||yes-com.com^
 ||hho.yes-hhoyf.com^
 ||yes-messenger.com^
