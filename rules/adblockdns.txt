@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241002161908
-! Last modified: 2024/10/02 16:19:08
-! Blocked domains: 117083
+! Version: 20241003001840
+! Last modified: 2024/10/03 00:18:40
+! Blocked domains: 117097
 ! unBlocked domains: 5
 !
 ||052db.website^
@@ -11727,6 +11727,7 @@
 ||xcccx.aproggz.top^
 ||yuoo.aproggz.top^
 ||tr.info.aprr.fr^
+||beacon.apsehick.date^
 ||apsmediaagency.com^
 ||apsoacou.xyz^
 ||apteka-pharm.ru^
@@ -14351,6 +14352,7 @@
 ||data-f1e447fbcf.az-online.de^
 ||data-f59db3288b.az-online.de^
 ||az200.net^
+||az697jylm.cc^
 ||az888.bet^
 ||ar1.aza.io^
 ||azaantraders.com^
@@ -16068,6 +16070,7 @@
 ||bclivewsnnt.top^
 ||bcloudhost.com^
 ||hlog.bclugu.com^
+||bcm8.shop^
 ||bcmechanicspecial.com^
 ||bcmoney.xyz^
 ||ads.bcnewsgroup.com^
@@ -44920,6 +44923,7 @@
 ||f5digital.com.br^
 ||g.f5gh.com^
 ||add.f5haber.com^
+||f5zv2.icu^
 ||f6b458fd.xyz^
 ||f8bet2.com^
 ||f8betapp.net^
@@ -45169,6 +45173,7 @@
 ||faktyprzednie.click^
 ||sadobe.falabella.com.pe^
 ||falconcookie.de^
+||api-ad-callback.falconnet.app^
 ||falcoware.com^
 ||tracking.falkopingstidning.se^
 ||fallaciousfifth.com^
@@ -46244,6 +46249,7 @@
 ||mc2o133jkwu19fv9.net.fidor.de^
 ||shhoix0fuonj0hz6.net.fidor.de^
 ||net.fidorbank.uk^
+||fidszeoqwjf.com^
 ||eloq.fiducial.fr^
 ||www.fiduciariobajio.com.mx^
 ||canidae.fidum.uk^
@@ -74739,6 +74745,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi5.com^
 ||navi53.com^
 ||navi54.com^
@@ -97147,6 +97154,7 @@
 ||ingest-data-afra.snappfood.dev^
 ||snappyreport.com^
 ||bobcat.snapshooter.io^
+||ad.snaptube.app^
 ||misc.api.snaptube.app^
 ||sensors.snaptube.app^
 ||snapvidapp.com^
@@ -100488,6 +100496,7 @@
 ||swtennnews.com^
 ||bxumze.swtimes.com^
 ||swtkes.com^
+||swurserb.top^
 ||swvegasnews.com^
 ||swvhwyaavewko.com^
 ||swvirginianews.com^
@@ -103460,6 +103469,7 @@
 ||jkizha.theshoecompany.ca^
 ||theshopizy.com^
 ||osvdtm.theshopyohjiyamamoto.jp^
+||thesignaturehardware.com^
 ||rs-stripe.thesimplifydaily.com^
 ||thesisadornpathetic.com^
 ||thesisfluctuateunkind.com^
@@ -105389,7 +105399,9 @@
 ||trafficjoint.com^
 ||trafficjunky.net^
 ||trafficleader.com^
+||51tongji.trafficmanager.net^
 ||blobcollector.events.data.trafficmanager.net^
+||cnzz.trafficmanager.net^
 ||ghochv3eng.trafficmanager.net^
 ||o365diagtelemetry.trafficmanager.net^
 ||trafficmoose.com^
@@ -109395,6 +109407,7 @@
 ||verygoodminigames.com^
 ||veryiwertr.xyz^
 ||verypopularwebsite.com^
+||veryt111.fun^
 ||veryvoga.pl^
 ||vescenter.ru^
 ||vesen.xyz^
@@ -116556,6 +116569,7 @@
 ||zmfcnlvu.xyz^
 ||zmien-motyw.blogspot.com^
 ||znajdz-numer.pl^
+||znnfzx.xyz^
 ||znowuwspolpracaod.yachts^
 ||zoagremo.net^
 ||zoaptaup.com^
