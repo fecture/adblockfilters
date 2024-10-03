@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241003001840
-! Last modified: 2024/10/03 00:18:40
-! Blocked domains: 117097
+! Version: 20241003090646
+! Last modified: 2024/10/03 09:06:46
+! Blocked domains: 117126
 ! unBlocked domains: 5
 !
 ||052db.website^
@@ -2962,7 +2962,7 @@
 ||8dayclub.com^
 ||8daygo.com^
 ||dfc1a3c2c3.8de4cb9cb7.com^
-||cb07f20af1.8de5d7e235.com^
+||8de5d7e235.com^
 ||8eef59a5.live^
 ||8ewel0ech4xpanse.quest^
 ||a.8exx9qtuojv1.shop^
@@ -8386,6 +8386,7 @@
 ||aax-eu.amazon.com.tr^
 ||unagi.amazon.com.tr^
 ||advertising.amazon.de^
+||bugsnag.shopbop.amazon.dev^
 ||prod.us-east-1.cxm-bcn.publisher-services.amazon.dev^
 ||unagi.amazon.fr^
 ||smetrics-smartcommerce.amazon.in^
@@ -9181,6 +9182,7 @@
 ||metrics.anhi.org^
 ||affil.aniball.cz^
 ||anicagency.com^
+||anickeebsoon.com^
 ||anidianskirts.com^
 ||anilahstudio.com^
 ||anilqijs.xyz^
@@ -13400,6 +13402,7 @@
 ||coles.ausexchanges.info^
 ||linkt.ausfuellhilfe.com^
 ||traffic.ausfuellhilfe.com^
+||ausfyk.xyz^
 ||ausiburger.com^
 ||ausirolabs.com^
 ||auslogics.com^
@@ -15424,6 +15427,7 @@
 ||ads.baotainguyenmoitruong.vn^
 ||adv.baotayninh.vn^
 ||adv.baotintuc.vn^
+||log-video.baotintuc.vn^
 ||thongke.baotintuc.vn^
 ||log.baovanhoa.vn^
 ||baovechomeo.com^
@@ -28858,7 +28862,6 @@
 ||cilentointreno.it^
 ||assets2.cilinsurance.com.au^
 ||cility.top^
-||ciliyinqing.top^
 ||cillen.top^
 ||cillot.trade^
 ||cilolamall.xyz^
@@ -32921,6 +32924,7 @@
 ||crazyinvitebot.com^
 ||crazynewsreports.com^
 ||crazypopups.com^
+||y.crazyporn.xxx^
 ||link.crazyquest.com^
 ||crazyrdp.com^
 ||crazyrocket.io^
@@ -38193,6 +38197,7 @@
 ||djamandablaze.com^
 ||djawqb.top^
 ||djaxadserver.com^
+||djecgyk.icu^
 ||djekxa.ru^
 ||djers.com^
 ||djfiln.com^
@@ -40303,6 +40308,7 @@
 ||eamonmadlon.com^
 ||www.eandcelectrical.com^
 ||partner.eandilek.cz^
+||eanff.com^
 ||go.eapps.com^
 ||earlierdimrepresentative.com^
 ||earlierindians.com^
@@ -54820,6 +54826,7 @@
 ||track.hk01.com^
 ||hk567rsda.appspot.com^
 ||images.email.hkaf.org^
+||hkaphqknkao.com^
 ||hkcbeauty.com^
 ||hkcomp24.com^
 ||hkcsl-5g.ink^
@@ -56261,6 +56268,7 @@
 ||hzrnbl.xyz^
 ||hzrqsr.xyz^
 ||www.hzxfmc.com^
+||hzychcvdmjo.com^
 ||ad.hzyoka.com^
 ||ads.i-am-bored.com^
 ||i-bybit.net^
@@ -57054,6 +57062,7 @@
 ||ikoo.com^
 ||l.ikora.tv^
 ||pr.ikovrov.ru^
+||ikssllnhrb.com^
 ||ikunselt.com^
 ||ikup24h.pl^
 ||data-7555680eb3.ikz.de^
@@ -61479,6 +61488,7 @@
 ||jgblvt.xyz^
 ||jgdtnxkapkso.com^
 ||jgfcgqivdpd.com^
+||jgfuxnrloev.com^
 ||jggjh.com^
 ||jggldfvx.com^
 ||jglowkonsultasi.com^
@@ -61684,6 +61694,7 @@
 ||jmrnews.pro^
 ||www.jnhzbh.com^
 ||jnnjthg.com^
+||jnoujcdiprjvx.com^
 ||jnovoksjreeyrpm.xyz^
 ||jnrgcwf.com^
 ||jnrtavp2x66u.com^
@@ -62409,6 +62420,7 @@
 ||jzjpntr.xyz^
 ||jzjxmj.com^
 ||www.jzmepp.com^
+||jzplabcvvy.com^
 ||jztchllgpcrwu.com^
 ||jztucbb.com^
 ||jzycnlq.com^
@@ -65272,6 +65284,7 @@
 ||laneyounger.com^
 ||olx.lang-net.shop^
 ||langretsahibah.com^
+||laoqo.top^
 ||lapgtetp.xyz^
 ||lapgtetz.top^
 ||lapgutclinic.com^
@@ -68230,6 +68243,7 @@
 ||lzjl.com^
 ||data-367bcf5bd6.lzjobs.de^
 ||lznfuab.xyz^
+||lzoasvofvzw.com^
 ||uspy.lzonsdmt.top^
 ||lzrikate.com^
 ||lzukrobrykk.com^
@@ -72008,6 +72022,7 @@
 ||usdbbx.mmartan.com.br^
 ||mmbonline01.com^
 ||i.mmcdn.cn^
+||nwr.static.mmcdn.com^
 ||mmcispartners.com^
 ||mmdem.net^
 ||tracker.mmdlv.it^
@@ -72924,6 +72939,7 @@
 ||motrixi.com^
 ||motsardi.net^
 ||motsrgidyzoaz.com^
+||motu-teamblue.services^
 ||motyl.shop^
 ||motyw-fb.blogspot.com^
 ||limo.mouadessbai.uk^
@@ -76628,6 +76644,7 @@
 ||link.staff.notab.com^
 ||heron.notability.com^
 ||notabilitytragic.com^
+||notabl8.com^
 ||notablenephew.top^
 ||notablevehicle.com^
 ||notallowedto.com^
@@ -80228,6 +80245,7 @@
 ||rymjhe.padd.fr^
 ||analytics.paddle.com^
 ||paddlediscovery.com^
+||paddlemenu.com^
 ||xml-v4.paddlewaver.com^
 ||paddypower.com^
 ||padent.top^
@@ -81602,6 +81620,7 @@
 ||pervertmine.com^
 ||pervertscarreceipt.com^
 ||c4n.perverzija.com^
+||peryt111.fun^
 ||pet2find.com^
 ||petargumentswhirlpool.com^
 ||data-a379a2e240.petbook.de^
@@ -82789,6 +82808,7 @@
 ||pmeuehivfps.com^
 ||pmew.jp^
 ||info.pmg360research.com^
+||pmgfwya.icu^
 ||info.pmhsi.com^
 ||adobe.pmi.org^
 ||pmi1yarhxx.com^
@@ -85036,6 +85056,7 @@
 ||psaudous.com^
 ||psaugourtauy.com^
 ||psaukaux.net^
+||psaulrouck.net^
 ||psaurdoofy.com^
 ||psaurteepo.com^
 ||psausuck.net^
@@ -92872,6 +92893,7 @@
 ||rulerabbit.com^
 ||ruletka-systemy.com^
 ||ruletkasystem.eu^
+||rulrahed.com^
 ||rumadel.com^
 ||rumbazo.com^
 ||rumhush.hair^
@@ -94943,6 +94965,7 @@
 ||joskgw.sewingmachinesplus.com^
 ||sewingunrulyshriek.com^
 ||sewinthesky.com^
+||sewparamedic.com^
 ||sewurown.com^
 ||sewyomingnews.com^
 ||sex-chat.me^
@@ -104003,6 +104026,7 @@
 ||stats.tiffany.ie^
 ||smetrics.tiffany.ru^
 ||tiflwine.com^
+||tifpqpbqurspix.com^
 ||tifsuc.com^
 ||tig-me.pro^
 ||tigainareputaon.info^
@@ -107437,6 +107461,7 @@
 ||fgosob.unhcr.it^
 ||unhealthybravelyemployee.com^
 ||dev-get.unhedged.com.au^
+||unhhsrraf.com^
 ||unhoaryawonder.com^
 ||unhonedyork.shop^
 ||unhorseaa.com^
@@ -107960,6 +107985,7 @@
 ||urimtats.com^
 ||urinebladdernovember.com^
 ||urinehere.com^
+||urinousbiriba.com^
 ||urjump.com^
 ||url-redirect.com^
 ||url.in.th^
@@ -108734,6 +108760,7 @@
 ||vaisobb.site^
 ||vaithodo.com^
 ||vaitotoo.net^
+||vaivurizoa.net^
 ||viognier.vajmet.info^
 ||vajuxiotaa.org^
 ||vakabimka.com^
@@ -115298,6 +115325,7 @@
 ||ybriifs.com^
 ||ybtkzjm.com^
 ||ycdywl.com^
+||ycuhky.xyz^
 ||yd88c.com^
 ||ydazjxso.xyz^
 ||yektanet.com^
@@ -116181,6 +116209,7 @@
 ||zapperlight.lat^
 ||zappinglift.world^
 ||amethyst.zappos.com^
+||marty.zappos.com^
 ||prod-sponsoredads.mkt.zappos.com^
 ||analytics.zapps.vn^
 ||jslog.zapps.vn^
