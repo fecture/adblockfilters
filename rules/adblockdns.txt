@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241005161747
-! Last modified: 2024/10/05 16:17:47
-! Blocked domains: 174729
+! Version: 20241006001657
+! Last modified: 2024/10/06 00:16:57
+! Blocked domains: 174702
 ! unBlocked domains: 50
 !
 ||053h94.com^
@@ -748,10 +748,12 @@
 ||181ue.com^
 ||1821z.website^
 ||allegrolokalnie.1829412.shop^
+||1846032945.rsc.cdn77.org^
 ||184c4i95p.de^
 ||1866roofway.com^
 ||1873083787.rsc.cdn77.org^
 ||18744.com^
+||1881574171.rsc.cdn77.org^
 ||18834677.com^
 ||188affiliates.com^
 ||188asia.bet^
@@ -16929,7 +16931,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -19308,6 +19310,7 @@
 ||aurousroseola.com^
 ||auroxvet.com^
 ||aursaign.net^
+||aurtegeejou.xyz^
 ||info.ausa.org^
 ||images.retail.ausbil.com.au^
 ||inpost.ausecurity.help^
@@ -25932,6 +25935,7 @@
 ||bifask.com^
 ||biffy.ai^
 ||bifidzombi.top^
+||bifrufhci.com^
 ||biftoast.com^
 ||big-bang-ads.com^
 ||stats.big-boards.com^
@@ -32515,6 +32519,7 @@
 ||bxn45.com^
 ||bxpjpkldxrsss.xyz^
 ||bxpwfdmmhlgccon.com^
+||bxqgk.icu^
 ||bxwccii.cn^
 ||ca.bxwx3.org^
 ||olx.by-cart.shop^
@@ -41937,6 +41942,7 @@
 ||app.hornettickets.csus.edu^
 ||cswilliamsburg.com^
 ||csxindia.com^
+||csy8cjm7.xyz^
 ||csyhy.net^
 ||m.csypspcs.cn^
 ||cszz.ru^
@@ -42247,6 +42253,7 @@
 ||cusfic.stream^
 ||cushionblarepublic.com^
 ||cushiondrum.com^
+||cusilbwq.xyz^
 ||cusize.com^
 ||cusok.ru^
 ||cusptide.rent^
@@ -61049,6 +61056,7 @@
 ||fyber.com^
 ||fyblppngxdt.com^
 ||fycasoy.com^
+||fydapcrujhguy.xyz^
 ||fydczmk.com^
 ||fydyjx.com^
 ||fyglovilo.pro^
@@ -62174,30 +62182,7 @@
 ||gelityopuu.info^
 ||geliyballon.ru^
 ||med.gelnique.com^
-||bad.gelopro.com^
-||infs.gelopro.com^
-||met.gelopro.com^
-||metdom.gelopro.com^
-||ners.gelopro.com^
-||nerw.gelopro.com^
-||nerws.gelopro.com^
-||newers.gelopro.com^
-||newr.gelopro.com^
-||newsom.gelopro.com^
-||priles.gelopro.com^
-||tedl.gelopro.com^
-||telmx.gelopro.com^
-||temsa.gelopro.com^
-||temv.gelopro.com^
-||teslx.gelopro.com^
-||tesm.gelopro.com^
-||tesmes.gelopro.com^
-||testersad.gelopro.com^
-||testersd.gelopro.com^
-||testrsss.gelopro.com^
-||trads.gelopro.com^
-||tre.gelopro.com^
-||trle.gelopro.com^
+||gelopro.com^
 ||home.gelsennet.de^
 ||gelstate.ru^
 ||link.gem.co^
@@ -62483,6 +62468,7 @@
 ||turtle.geshem.space^
 ||gesrg.com^
 ||gestama.boats^
+||vw1.gestimnogo.net^
 ||analytics.gestore.com^
 ||gestoriaasesoriavalencia.com^
 ||data-c05bf504b4.gesund24.at^
@@ -74522,6 +74508,7 @@
 ||infotelsrl.com^
 ||adserver.infotorg.se^
 ||p.infotrackbdx.top^
+||u.infotrackcd.top^
 ||post.infotrackhrg.top^
 ||p.infotrackktd.top^
 ||infotrackpvg.top^
@@ -82475,6 +82462,7 @@
 ||kdinfohub.com^
 ||kdjdpyrt.xyz^
 ||kdkdesign.biz^
+||kdlktswsqhpd.com^
 ||kdmjvnk.com^
 ||kdmmm.cn^
 ||kdmttk.com^
@@ -82611,7 +82599,6 @@
 ||kemaz.xyz^
 ||www2.kemcosystems.com^
 ||kemhality.com^
-||link.kemkes.go.id^
 ||analytics.kemlu.go.id^
 ||metrics.kempinski.com^
 ||kempkicker.net^
@@ -103150,29 +103137,7 @@
 ||stun4.nimiq-network.com^
 ||nimiq.com^
 ||seed.nimiq.jp^
-||can-bhs-c1-p1.inf.nimiq.network^
-||can-bhs-c1-s2.inf.nimiq.network^
-||deu-lim-c1-s1.inf.nimiq.network^
-||deu-lim-c2-s2.inf.nimiq.network^
-||dev-deu-1.inf.nimiq.network^
-||dev-deu-2.inf.nimiq.network^
-||fra-gra-c1-s2.inf.nimiq.network^
-||mon-deu-2.inf.nimiq.network^
-||mon-fra-1.inf.nimiq.network^
-||proxy-can-1.inf.nimiq.network^
-||proxy-fra-3.inf.nimiq.network^
-||proxy-pol-2.inf.nimiq.network^
-||seed-10.nimiq.network^
-||seed-can-1.inf.nimiq.network^
-||seed-can-2.inf.nimiq.network^
-||seed-deu-1.inf.nimiq.network^
-||seed-deu-2.inf.nimiq.network^
-||seed-deu-3.inf.nimiq.network^
-||seed-deu-4.inf.nimiq.network^
-||seed-fra-1.inf.nimiq.network^
-||seed-fra-3.inf.nimiq.network^
-||seed-pol-3.inf.nimiq.network^
-||web-can-1.inf.nimiq.network^
+||nimiq.network^
 ||metric.nimo.tv^
 ||statwup.nimo.tv^
 ||ylog.nimo.tv^
@@ -108916,6 +108881,7 @@
 ||owoxauky.com^
 ||owrkwilxbw.com^
 ||owsys.com^
+||owurserk.top^
 ||owwczycust.com^
 ||owwogmlidz.com^
 ||owyame.xyz^
@@ -110655,6 +110621,7 @@
 ||adv.pdbox.co.kr^
 ||pdbqyzi.com^
 ||pdbsh.com^
+||pddcohvfyhrhk.com^
 ||marketing.pddinnovation.com^
 ||pddshuadan.com^
 ||pde-careercoach.com^
@@ -124985,6 +124952,7 @@
 ||advert.rabaldermedia.se^
 ||4nnjxqk0nu4cxzbz.rabbclk.com^
 ||track.rabbclk.com^
+||rabbit.tech^
 ||rabbitbreath.com^
 ||rabbitfiles.com^
 ||a2.rabbitpre.com^
@@ -130390,6 +130358,7 @@
 ||hqxbuy.rugs-direct.com^
 ||ifqtfo.rugsusa.com^
 ||sensorsdata.ruguoapp.com^
+||rugupheessupaik.net^
 ||link.ruhgu.com^
 ||data-f1e447fbcf.ruhr24.de^
 ||data-f59db3288b.ruhr24.de^
@@ -138143,6 +138112,7 @@
 ||sneezeboring.com^
 ||sneezeinterview.com^
 ||snegozaderzhatel.ru^
+||distrochooser.snehit.dev^
 ||www.snekkergk.no^
 ||dichvucong.snggov.com^
 ||snhtvtp.com^
@@ -167659,6 +167629,7 @@
 ||withsecurify.com^
 ||download.withu.fit^
 ||app.withutraining.com^
+||withyotta.com^
 ||withyouryretye.info^
 ||witlee-main.firebaseapp.com^
 ||witmdlrwher.site^
@@ -170190,6 +170161,7 @@
 ||pubserver.xl.pt^
 ||st.pba.xl.pt^
 ||go.xl.ua^
+||xlafbbnzn.com^
 ||mappong.xlcialis.com^
 ||xlckxtyqntt.xyz^
 ||tr.xlead.digital^
@@ -172569,6 +172541,7 @@
 ||yuehesh.com^
 ||download.yuehlia.com^
 ||yuererer.wixsite.com^
+||yueuucoxewemfb.com^
 ||ads.reader.yueyouxs.com^
 ||yug8.com^
 ||yugaley.info^
