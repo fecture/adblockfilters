@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241103161715
-! Last modified: 2024/11/03 16:17:15
-! Blocked domains: 144976
+! Version: 20241104001654
+! Last modified: 2024/11/04 00:16:54
+! Blocked domains: 145046
 ! unBlocked domains: 41
 !
 ||ojx.04230569.xyz^
@@ -62,6 +62,7 @@
 ||08f8f073.xyz^
 ||08gamek8.com^
 ||08prok8.com^
+||08ro35delw.ru^
 ||0909777.com^
 ||0909810.com^
 ||0914.global.ssl.fastly.net^
@@ -565,6 +566,7 @@
 ||irpmt.mail.163.com^
 ||lofter.httpdns.c.163.com^
 ||log.study.163.com^
+||music.httpdns.c.163.com^
 ||n.3g.163.com^
 ||nex.163.com^
 ||popme.163.com^
@@ -2041,6 +2043,7 @@
 ||404mobi.com^
 ||ddpd.40734332.xyz^
 ||407433bfc441.com^
+||407etr.click^
 ||40cg.com^
 ||40fenzhong.com^
 ||40momporntube.com^
@@ -2944,6 +2947,7 @@
 ||7eer.net^
 ||smetrics.7eleven.com.au^
 ||7ewel8rive5ista.xyz^
+||7f7rt.icu^
 ||7fb.ru^
 ||7fc0966988.com^
 ||ae56c07a5d.7fc6aff494.com^
@@ -3442,6 +3446,7 @@
 ||9o4.cc^
 ||9ohy40tok.com^
 ||9purdfe9xg.com^
+||natvxgkbb.9pz1.tech^
 ||9r7i9bo06157.top^
 ||9s75.info^
 ||vinted-pl-gj32d.9shot.xyz^
@@ -9316,6 +9321,7 @@
 ||amazonedolls.com^
 ||amazonefashion.com^
 ||amazongiftcardgenerator.org^
+||amazoni2.com^
 ||amazonl0.com^
 ||amazonl3.com^
 ||dl.amazonmusic.com^
@@ -9323,6 +9329,7 @@
 ||amazonthesalesbooster.com^
 ||amazonu.cc^
 ||us.amazonv.top^
+||amazoul.site^
 ||amazoul.xyz^
 ||amazy.ru^
 ||amb3ramber.xyz^
@@ -9841,6 +9848,7 @@
 ||anbafood.com^
 ||anbiz.com^
 ||anbusfomuvkf.com^
+||ancamcdu.com^
 ||anceenablesas.com^
 ||anceenablesas.info^
 ||reg.ancensored.com^
@@ -13924,6 +13932,7 @@
 ||astrologysuccess.com^
 ||astronomybreathlessmisunderstand.com^
 ||astronomycrawlingcol.com^
+||astronomyfitmisguided.com^
 ||astronomytesting.com^
 ||astronotluk.com^
 ||info.astronovainc.com^
@@ -15069,6 +15078,7 @@
 ||avcoast.com^
 ||avdebt3431.fun^
 ||avdistiller.com^
+||avecmessougnauy.net^
 ||aqmzbk.avectoi.kr^
 ||avehistoric.com^
 ||avehospitablestrangers.com^
@@ -17718,6 +17728,7 @@
 ||berryfico.com^
 ||berryheight.com^
 ||berryhillfarmgwent.com^
+||bertasxt.com^
 ||bertchou.com^
 ||berterkalks.com^
 ||vz.berthsgigget.com^
@@ -20760,6 +20771,7 @@
 ||blacknesskangaroo.com^
 ||blacknesskeepplan.com^
 ||blackops2hacked.com^
+||blackoutarchertender.com^
 ||blackpics.net^
 ||blackpinestudio.com^
 ||vs.blackplanet.com^
@@ -23353,6 +23365,7 @@
 ||bogdancrusu.com^
 ||bogepoy.xyz^
 ||mirvso.boggi.com^
+||bogletdent.shop^
 ||bogo777.com^
 ||bogoreducare.com^
 ||bogrex.com^
@@ -27320,6 +27333,7 @@
 ||ccatmastery.com^
 ||adv.ccb.com^
 ||bannery.ccb.cz^
+||dichvucong.ccbcavn.cc^
 ||bill.ccbill.com^
 ||images.ccbill.com^
 ||ccbilleu.com^
@@ -27386,6 +27400,7 @@
 ||mtrace.ysp.cctv.cn^
 ||httpdns.cctv.com^
 ||cctvgb.com.cn^
+||ccty-ghtk.com^
 ||ccudl.com^
 ||ccvaudqkix.com^
 ||secure.ccwqualifyfirst.com^
@@ -27539,6 +27554,7 @@
 ||am.cdnyl.net^
 ||app.cdnyl.net^
 ||cdolhlwq.xyz^
+||cdoqjxlnegnhm.com^
 ||cdosagebreakfast.com^
 ||cdp.asia^
 ||cdpfhdbf.com^
@@ -28236,11 +28252,20 @@
 ||shinhanbank.chamsockhachang-the.com^
 ||vib.chamsockhachang-tructuyen-the.online^
 ||vib.chamsockhachang-tructuyen.online^
+||chamsockhachhang-the-tructuyen-thang9.com.vn^
 ||scb.chamsockhachhang-truc-tuyen-the.online^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
 ||chamsockhachhang-tructuyenuudaithe.online^
+||chamsockhachhang-uudai-tructuyen-thang10.com.vn^
 ||chamsockhachhang-uudaithe-thang6.com^
+||chamsockhachhang-uudaithetructuyen-thang10.com.vn^
 ||chamsockhachhang-uudaitructuyen.online^
+||chamsocthe-uudai-tructuyen-thang10.com.vn^
+||chamsocthe-uudaikhachhang-thang10.com.vn^
+||chamsocthe-uudaikhachhang-tructuyen.com^
+||chamsocthe-uudaikhachhang.com^
+||chamsocthe-uudaikhachhang.online^
+||chamsocthe-uudaitructuyen.com.vn^
 ||chamsocthekhachang-truc-tuyen.com^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
 ||chamsocthekhachhang-thang4.com.vn^
@@ -28498,6 +28523,7 @@
 ||cheatload.com^
 ||cheatmods.com^
 ||cheatnhack.com^
+||data.cheatography.com^
 ||cheatsandhack.com^
 ||cheatsandhacks.net^
 ||cheatscastle.com^
@@ -28696,6 +28722,7 @@
 ||chesscolor.com^
 ||chesscrowd.com^
 ||chessing.online^
+||chesssorrydescend.com^
 ||allnews.chestertelegraph.org^
 ||chestingruined.pro^
 ||chestionar.ro^
@@ -34544,6 +34571,7 @@
 ||info.ctiimage.com^
 ||z492.ctinsider.com^
 ||ctiotjobkfu.com^
+||ctivo.com^
 ||ctkyom.xyz^
 ||ctlacnh.icu^
 ||ctlrarz.xyz^
@@ -36369,6 +36397,7 @@
 ||cc.dalten.cz^
 ||daltongrievously.com^
 ||med.dalvance.com^
+||daly2024.com^
 ||dalyai.com^
 ||dalyio.com^
 ||dalymix.com^
@@ -38774,6 +38803,8 @@
 ||dicheeph.com^
 ||dichoabs.net^
 ||dichvuchuyentienj7ss.vercel.app^
+||dichvudienmay-xanh.online^
+||dichvugiaohangtietkiem.com^
 ||xiqvza.dickblick.com^
 ||dtvgpk.dickhannahkia.com^
 ||rbjmfj.dickies.ca^
@@ -38818,6 +38849,7 @@
 ||dielottozahlende.net^
 ||diench.com^
 ||dienlanhdienmayxanh.com^
+||dienlanhdienmayxanhvn.com^
 ||dienlanhquanphat.com^
 ||dienmaytot.xyz^
 ||dienmayxanh247.com^
@@ -38825,6 +38857,7 @@
 ||dienmayxanh268.com^
 ||dienmayxanh389.com^
 ||dienmayxanh542.com^
+||dienmayxanhcenter.vn^
 ||dienmayxanhh.com^
 ||mytracking.dientes-saludables-hoy.com^
 ||raqwjl.dienthoaigiakho.vn^
@@ -43024,6 +43057,7 @@
 ||eewhapseepoo.net^
 ||eexlgyn.cn^
 ||eeyk.top^
+||eeyrfrqdfey.xyz^
 ||eezavops.net^
 ||eezegrip.net^
 ||ef-24d.cfd^
@@ -45996,6 +46030,7 @@
 ||gye1.evluator.com^
 ||analytics.evn.com.vn^
 ||evncredit.online^
+||evnnpcs.com^
 ||app-test.evntly.com^
 ||evnvaytien.xyz^
 ||ayuda.evo-soporte.com^
@@ -47427,6 +47462,7 @@
 ||tracking.fasab6f.se^
 ||wordpress.fasada.eu^
 ||fascinateddashboard.com^
+||fasebook.com.vn^
 ||jiyjfcpmpmbysdwybm.fasejnmajapent.com^
 ||fasgazazxvi.com^
 ||app.fashalot.com^
@@ -53746,6 +53782,7 @@
 ||ghsel.com^
 ||ghsheukwasana.info^
 ||ghsnhjk.cn^
+||ghtk247.com^
 ||ghuxgvh.com^
 ||dog.ghvenue.com^
 ||ghwqbii.icu^
@@ -53788,6 +53825,7 @@
 ||giaohangtietkiem247.com^
 ||giaohangtietkiem247.top^
 ||giaohangtietkiemvietnam.com^
+||giaohangtietkiemvn.website^
 ||img3.giardinelli.com^
 ||giatsaytietkiem.com^
 ||giaydantuong.com^
@@ -61244,6 +61282,7 @@
 ||huminfakt.ru^
 ||humitodegen.com^
 ||hummingexam.com^
+||hummockpenner.shop^
 ||humoralbooms.top^
 ||www.humortimes.com^
 ||humplollipopsalts.com^
@@ -68372,6 +68411,7 @@
 ||halvwk.jetcost.ie^
 ||a8clk.booking.jetfi.jp^
 ||jetformetalindustries.com^
+||jetkingncsc.online^
 ||jetnamc.com^
 ||jetnews247.com^
 ||jetordinarilysouvenirs.com^
@@ -68788,6 +68828,7 @@
 ||paragon.joachimskiba.pl^
 ||joaglouwulin.com^
 ||joagroamy.com^
+||joajazaicoa.xyz^
 ||joanliew.com^
 ||fculcz.joann.com^
 ||joannahoang.com^
@@ -69730,6 +69771,7 @@
 ||jydepejsene.com^
 ||jydyvyoluy.live^
 ||jyfdbj.xyz^
+||jyfrsjdkkhue.com^
 ||jygotubvpyguak.com^
 ||jyjrbz.xyz^
 ||jyk.jp^
@@ -71978,6 +72020,7 @@
 ||wek.koroje.top^
 ||korporatefinau.org^
 ||korrectfx.com^
+||korshoptiktok.com^
 ||046adec4.kortfilmfestivalen.no^
 ||06042176.kortfilmfestivalen.no^
 ||06dfde28.kortfilmfestivalen.no^
@@ -77866,6 +77909,7 @@
 ||ahhrtt.managertoday.com.tw^
 ||managesborerecords.com^
 ||managetroubles.com^
+||manageyourorder.com^
 ||manajemenrisiko.com^
 ||manalyticshub.com^
 ||coinkhorn.manasan.top^
@@ -82341,6 +82385,7 @@
 ||momohanoi.me^
 ||momoloto.club^
 ||ybzcmz.momoshop.com.tw^
+||momoshopvip.com^
 ||momoshopy.com^
 ||momotudong.net^
 ||momovayi.com^
@@ -103213,6 +103258,7 @@
 ||kf.qingwk.com^
 ||qinvaris.com^
 ||qipostpl.top^
+||qipshozipsah.com^
 ||qiqdpeovkobj.com^
 ||down.qiqi.cc^
 ||qiqimb.com^
@@ -103574,6 +103620,7 @@
 ||qronay.xyz^
 ||qroue.xyz^
 ||qrprobopassor.com^
+||qrroyrdbjeeffw.com^
 ||qrsg11.com^
 ||qrstes.com^
 ||qrthod.top^
@@ -108247,6 +108294,7 @@
 ||rpgmasterleague.com^
 ||www.rphingenieria.com^
 ||rpjkwhkxh.com^
+||rplhearvc.com^
 ||homepay-pl-48d33c44.rpm-technik.at^
 ||paiementhome-pl-5b4f060c.rpm-technik.at^
 ||rpmwhoop.com^
@@ -108859,6 +108907,8 @@
 ||rumoaotopo.com^
 ||rumormillnews.com^
 ||rumorvoice.click^
+||ams2.rumourobey.com^
+||ams2.rumourrubicon.com^
 ||rumt-sg.com^
 ||rumt-zh.com^
 ||run-germany.com^
@@ -111114,6 +111164,7 @@
 ||secrettrike.com^
 ||secretturtle.com^
 ||secretwish.pl^
+||secrity2redline.com^
 ||secssnetplan.jp^
 ||secthatlead.com^
 ||sectionwinter.shop^
@@ -111595,6 +111646,7 @@
 ||sendjayu.com^
 ||track.sendlane.com^
 ||sendmepush.com^
+||sendo1.com^
 ||link.sendoutpost.com^
 ||fbstore.sendpulse.com^
 ||sendshort.com^
@@ -111694,6 +111746,7 @@
 ||seosupersite.com^
 ||sa.seotoaster.com^
 ||seoverseas.com^
+||axx.seovietnam.pro^
 ||seowebbs.com^
 ||separatelyweeping.com^
 ||separationanxietydogcoach.com^
@@ -116392,6 +116445,7 @@
 ||sp-trk.com^
 ||metrics.sp0n.io^
 ||sp5derapparel.com^
+||sp7588p.com^
 ||sp9hb5jy81iw.ru^
 ||lravwm.spa.cz^
 ||asxe.spaactivs.top^
@@ -124900,6 +124954,7 @@
 ||images.news.thunderinsider.com^
 ||thunderpick.com^
 ||log.thuonggiaonline.vn^
+||thuongmai-dientu.com^
 ||thuphedsaup.com^
 ||ens.thurgauerzeitung.ch^
 ||thursailso.com^
@@ -125011,6 +125066,7 @@
 ||et.tidal.com^
 ||tracking.tidalhifi.com^
 ||info.tidbank.no^
+||dfeenxea.tidc.bid^
 ||newsletter.tide.com^
 ||tideairtight.com^
 ||tidebuy.com^
@@ -125136,6 +125192,7 @@
 ||tiki5688.shop^
 ||tiki666.com^
 ||tiki777.com^
+||tiki886.vip^
 ||tiki888.com^
 ||tikibihu.com^
 ||tikiiii.com^
@@ -126295,6 +126352,7 @@
 ||topcpa.ru^
 ||topcpmcreativeformat.com^
 ||topcto.ru^
+||topcvvn.com^
 ||v1.topdealfrance.site^
 ||link.topdealspost.com^
 ||r.topdent.ru^
@@ -126791,6 +126849,7 @@
 ||track.tproger.ru^
 ||tptgvh.xyz^
 ||tptp002.cfd^
+||tpudapafr.com^
 ||tpvrqkr.com^
 ||tpwtjya.com^
 ||tpydhykibbz.com^
@@ -128157,6 +128216,7 @@
 ||trktnc.com^
 ||imtrk.trktoo.com^
 ||trk.trktrackingpt.click^
+||trkucibqy.com^
 ||trkunited.com^
 ||trkwinaff13.com^
 ||www.trkzilla.com^
@@ -129546,6 +129606,7 @@
 ||ucsfstore.xyz^
 ||ucsipainsolution.com^
 ||uctrac.com^
+||ucureo.com^
 ||ucweb.com^
 ||iflow.uczzd.cn^
 ||iflow.uczzd.com.cn^
@@ -130623,6 +130684,7 @@
 ||uoqsxdpx.xyz^
 ||uorhlwm.com^
 ||uosyhthogsaavr.com^
+||uoublit.top^
 ||uoutube.com^
 ||cent.up-click.xyz^
 ||up-flow.org^
@@ -132047,7 +132109,11 @@
 ||uuaxvf.shop^
 ||uucm.cn^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
+||uudaikhachhang-chamsocthetructuyen.com^
+||uudaikhachhang-chamsocthetructuyen.com.vn^
+||uudaikhachhang-tructuyen-the.com.vn^
 ||uudaikhachhang-tructuyen.com.vn^
+||uudauthekhachhanh-tructuyen-thang10.com.vn^
 ||uudt.net^
 ||uudzfbzthj.com^
 ||uuff.com^
@@ -132077,6 +132143,7 @@
 ||uux68.com^
 ||uuxfznnf.xyz^
 ||uuyhonsdpa.com^
+||uuyiiuqwownx.pw^
 ||zzcw.uuzham.com^
 ||uuzsfpju.xyz^
 ||static.flv.uuzuonline.com^
@@ -133673,6 +133740,7 @@
 ||play.video2.stream.vidzi.tv^
 ||vidzwap.xyz^
 ||viedechretien.org^
+||vneid.vieegovn.cc^
 ||smetrics.viega.at^
 ||smetrics.viega.be^
 ||smetrics.viega.com^
@@ -135916,6 +135984,7 @@
 ||omniture-ssl.walmart.com^
 ||walmartgiftcard.sbs^
 ||metrics.walmartmoneycard.com^
+||walmartva.icu^
 ||yourfuture.walsh.edu^
 ||walt-company-management-inc.com^
 ||walt-company-management.com^
@@ -142212,6 +142281,7 @@
 ||yjtag.jp^
 ||yjwxegq.icu^
 ||yjxzvqy.xyz^
+||yk37wagdg.life^
 ||ykaia75.shop^
 ||ykcjxvg.cn^
 ||ykgfcs.xyz^
