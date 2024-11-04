@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241104001654
-! Last modified: 2024/11/04 00:16:54
-! Blocked domains: 145046
+! Version: 20241104090913
+! Last modified: 2024/11/04 09:09:13
+! Blocked domains: 145055
 ! unBlocked domains: 41
 !
 ||ojx.04230569.xyz^
@@ -1416,6 +1416,7 @@
 ||2at.site^
 ||2ben92aml.com^
 ||2beon.co.kr^
+||adsby.2bet.co.jp^
 ||2betesi.com^
 ||2bj.cn^
 ||2blooming.com^
@@ -7419,6 +7420,7 @@
 ||ahqovxli.com^
 ||spt.ahram.org.eg^
 ||analytics.ahrefs.com^
+||analytics.ahrefs.dev^
 ||ahscdn.com^
 ||ahsontechnologies.com^
 ||aht42trk.com^
@@ -46332,6 +46334,7 @@
 ||marketing.execshape.com^
 ||exectechnologies.com^
 ||moz.execulink.net^
+||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||executeabattoir.com^
@@ -46884,6 +46887,7 @@
 ||ezoliniawrozby.com^
 ||adg-prox.ezonex.top^
 ||ezralarson.com^
+||ezrcowa.icu^
 ||ezsbhlpchu.com^
 ||ezsportsbetting.com^
 ||ezsportsbettingonline.com^
@@ -56850,6 +56854,7 @@
 ||gunggo.com^
 ||gungpurre.com^
 ||gunnersgaming.com^
+||ads-delivery.gunosy.com^
 ||app.gunownersldn.com^
 ||gunstee.com^
 ||gunwaleneedsly.com^
@@ -65987,6 +65992,7 @@
 ||ippscriptbear.com^
 ||ippstuet.com^
 ||ippunet.site^
+||ipqajyy.icu^
 ||ipqnteseqrf.xyz^
 ||ipqolj.com^
 ||kliesn.iprimo.jp^
@@ -72230,6 +72236,7 @@
 ||kqvvqv.icu^
 ||kr-balticpipe-pl-04.web.app^
 ||www.communications.kra.go.ke^
+||kra18.com^
 ||kraftonevent.com^
 ||kragorortho.com^
 ||krainajednorozca.pl^
@@ -132198,6 +132205,7 @@
 ||m.uwmoghx.cn^
 ||uwoaptee.com^
 ||uwougheels.net^
+||uwsaqoi.icu^
 ||uwselectie.be^
 ||go.uwstout.edu^
 ||tag2.uwv.nl^
@@ -135475,6 +135483,7 @@
 ||vsjrnh.xyz^
 ||vskin.pro^
 ||vsnoon.com^
+||vsojfsoj.com^
 ||go.cm.vsp.com^
 ||go.int.vsp.com^
 ||secure.vspdirect.com^
