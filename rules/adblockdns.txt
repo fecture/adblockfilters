@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241110001559
-! Last modified: 2024/11/10 00:15:59
-! Blocked domains: 165141
+! Version: 20241110091025
+! Last modified: 2024/11/10 09:10:25
+! Blocked domains: 165150
 ! unBlocked domains: 50
 !
 ||assistancehelp-snapchat-account.000.pe^
@@ -6612,7 +6612,6 @@
 ||addonsmash.com^
 ||addoor.net^
 ||addotnet.com^
-||addr.cx^
 ||data-3bf5bac5c5.addradio.de^
 ||data-463860f007.addradio.de^
 ||addrawlestrk.com^
@@ -9696,6 +9695,7 @@
 ||insights.aiu.sg^
 ||aiuknf.org^
 ||aivaylaco.com^
+||lcd.aivote.com^
 ||ro.aiwan4399.com^
 ||aiwanma99.com^
 ||aiwealthwizard.pro^
@@ -37853,6 +37853,7 @@
 ||correopista.com^
 ||correors.my^
 ||correos-app.help^
+||correos-app.link^
 ||correos-es.club^
 ||correos-eses.top^
 ||correos-go-cr.top^
@@ -76048,6 +76049,7 @@
 ||aozmpm.jwell.com^
 ||webtrack.jwgrant.co.uk^
 ||updates.jwhillcountryresort.com^
+||jwhjqjfl.icu^
 ||jwia0.top^
 ||jwlabsolutions.com^
 ||jwllogic.com^
@@ -76961,6 +76963,7 @@
 ||royal-glade-286f.kdsj.workers.dev^
 ||kdsk32lfa.xyz^
 ||kdufhr.xyz^
+||kdzgrvn.icu^
 ||keagypickard-helpcenter-8597.pages.dev^
 ||keap.page^
 ||spider.kearneyjaycees.com^
@@ -94028,6 +94031,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -120334,6 +120338,7 @@
 ||www.roninbridge.app^
 ||ronite.top^
 ||ronmen.top^
+||ronnoble.com^
 ||ronpaulinstitute.org^
 ||ronslik.com^
 ||rontar.com^
@@ -126125,6 +126130,7 @@
 ||sheryoo.com^
 ||sherzer.com^
 ||sheschemetraitor.com^
+||shestieh.com^
 ||shestour.net^
 ||shestrozo.com^
 ||shesubscriptions.com^
@@ -131896,6 +131902,7 @@
 ||stalkanalysis.ru^
 ||stalkerlagunes.shop^
 ||stalkforx.ru^
+||stallioncredit.com^
 ||stallionsmile.com^
 ||stallionvigor.com^
 ||stallsmalnutrition.com^
@@ -140688,6 +140695,7 @@
 ||skink.thoumi.ch^
 ||thouphouwhad.net^
 ||thoupsuk.net^
+||thouptoorg.com^
 ||thousandinvoluntary.com^
 ||jdzmqj.thousandtrails.com^
 ||thousheek.com^
@@ -147711,6 +147719,7 @@
 ||uniquemelink.com^
 ||lp.uniqueperformance.site^
 ||uniquepowerbd.com^
+||uniqueshirt.shop^
 ||uniqueworldlimo.com^
 ||uniradiant.com^
 ||uniregistry.com^
