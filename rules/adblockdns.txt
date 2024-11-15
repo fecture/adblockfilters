@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241115161940
-! Last modified: 2024/11/15 16:19:40
-! Blocked domains: 143562
+! Version: 20241116001850
+! Last modified: 2024/11/16 00:18:50
+! Blocked domains: 143566
 ! unBlocked domains: 45
 !
 ||tkkk.001122.cc^
@@ -67303,6 +67303,7 @@
 ||indiapostusa.sbs^
 ||indiapostut.vip^
 ||indiaroundup.com^
+||agi-static.indiatimes.com^
 ||mobileads.indiatimes.com^
 ||slike.indiatimes.com^
 ||indiavisa-online.org^
@@ -86742,6 +86743,7 @@
 ||prp1.moengage.com^
 ||prpwebpushdemo.moengage.com^
 ||sdk-02.moengage.com^
+||sdk-04.moengage.com^
 ||shopclues.moengage.com^
 ||websdk.moengage.com^
 ||moeskin.com^
@@ -119832,6 +119834,7 @@
 ||www.sweetsigh.com^
 ||joint.sweettspot.trade^
 ||support-v2.sweetwaternow.com^
+||sweisib.top^
 ||track.byzon.swelen.net^
 ||swellingconsultation.com^
 ||swellknife.com^
@@ -142738,6 +142741,7 @@
 ||pc-mon.zijieapi.com^
 ||polaris.zijieapi.com^
 ||saveu5-normal-lq.zijieapi.com^
+||vcs.zijieapi.com^
 ||view.zijieapi.com^
 ||download.zikirapp.com^
 ||zikroarg.com^
