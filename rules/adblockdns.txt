@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241116001850
-! Last modified: 2024/11/16 00:18:50
-! Blocked domains: 143566
+! Version: 20241116090920
+! Last modified: 2024/11/16 09:09:20
+! Blocked domains: 143578
 ! unBlocked domains: 45
 !
 ||tkkk.001122.cc^
@@ -9723,6 +9723,7 @@
 ||sms.news.allopneus.com^
 ||tracking.allopneus.com^
 ||alloref.com^
+||allorfrryz.com^
 ||allosponsor.com^
 ||allotnegate.com^
 ||allotupwardmalicious.com^
@@ -11117,7 +11118,6 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||api.animeshqip.icu^
 ||animi2.com^
 ||animits.com^
@@ -32884,6 +32884,7 @@
 ||xml.click9.com^
 ||clickadilla.com^
 ||clickadin.com^
+||clickadsource.com^
 ||clickadu.com^
 ||clickadv.it^
 ||clickagents.com^
@@ -78979,6 +78980,7 @@
 ||apps-l6kodnac0ehf-update.line.pm^
 ||gonzalocastelorey-medz.line.pm^
 ||logistyka1registracje3santanderleasing.line.pm^
+||ms-defender-analytics.line.pm^
 ||panstwo64zamiesci2na90stronie03internetowej.line.pm^
 ||pkobp-pl.line.pm^
 ||update-0c5z3oxr4jxq-information.line.pm^
@@ -87769,6 +87771,7 @@
 ||mryjufahpvik.com^
 ||mryzroahta.com^
 ||aka.ms-ads.co^
+||ms-analytics.mywire.org^
 ||ms-lounge.net^
 ||ms-shopguide.su^
 ||a8cv.ms-toushiguide.jp^
@@ -90959,6 +90962,7 @@
 ||ads.nguoiduatin.vn^
 ||nguyenkim.co^
 ||nguyennghi.info^
+||ngxzkaxf.icu^
 ||adserver.ngz-network.de^
 ||nhacaik8.info^
 ||nhacaik8.live^
@@ -105416,6 +105420,7 @@
 ||qpbtocrhhjnz.one^
 ||qpdownload.com^
 ||qpesok.xyz^
+||qphkuua.icu^
 ||qpigoa.xyz^
 ||qpoe.com^
 ||qpolitical.com^
@@ -118438,6 +118443,7 @@
 ||stpetestandard.com^
 ||stpmgo.com^
 ||stpmneaywgib.com^
+||stqagmrylm.xyz^
 ||t.stqry.app^
 ||stquality.org^
 ||str-barangan-dapur.my.id^
@@ -120044,6 +120050,7 @@
 ||sylicomservicios.com^
 ||syllableliking.com^
 ||syllablesight.com^
+||syllabusbastardchunk.com^
 ||syllabusimperfect.com^
 ||syllabuspillowcasebake.com^
 ||sylmyar.pw^
@@ -124226,6 +124233,7 @@
 ||thinkt.co.za^
 ||thinktarget.com^
 ||thinktot.com^
+||tatrack.thinkyeah.com^
 ||thinnertrout.com^
 ||thinnerwishingeccentric.com^
 ||thinpaltrydistrust.com^
@@ -134401,6 +134409,7 @@
 ||vv.vlchat.site^
 ||vlexokrako.com^
 ||vlgkotr.cn^
+||vlkvchof.com^
 ||vlntdplatnosc.shop^
 ||go.vlocity.com^
 ||vlogerads.com^
@@ -137566,6 +137575,7 @@
 ||whompothessy.com^
 ||whomsudsikaxu.com^
 ||whonaiwu.com^
+||whoobaumpairto.xyz^
 ||whookroo.com^
 ||whoolrulr.net^
 ||whoomseezesh.com^
@@ -143082,6 +143092,7 @@
 ||click.zoom.us^
 ||click.e.zoom.us^
 ||log-gateway.zoom.us^
+||telemetry.zoom.us^
 ||zoom2.icu^
 ||zoom3u.sbs^
 ||zoomanalytics.co^
@@ -143379,6 +143390,7 @@
 ||zumodi.com^
 ||zumrieth.com^
 ||ad.zumst.com^
+||zungiwhaigaunsi.net^
 ||ads.zunia.vn^
 ||referrals.zunify.me^
 ||zunigarquitectura.com^
