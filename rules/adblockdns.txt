@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241121161953
-! Last modified: 2024/11/21 16:19:53
-! Blocked domains: 180034
+! Version: 20241122001915
+! Last modified: 2024/11/22 00:19:15
+! Blocked domains: 180065
 ! unBlocked domains: 50
 !
 ||informinfluencer.000.pe^
@@ -9891,6 +9891,7 @@
 ||aimamparc.club^
 ||aimarketmastery.pro^
 ||aimatch.com^
+||aimaunongeez.net^
 ||aimediagroup.com^
 ||zitcrd.aimerfeel.jp^
 ||aimes.com^
@@ -13662,6 +13663,7 @@
 ||yoda.aomg5bzv7.com^
 ||yp.aomg5bzv7.com^
 ||zoo.aomg5bzv7.com^
+||aomsitf.com^
 ||aon-classiccar.com^
 ||s362693299.aon.ca^
 ||aonemeaclientcouncil.aon.com^
@@ -24904,6 +24906,7 @@
 ||bidiology.com^
 ||bidium.io^
 ||bidivoo.com^
+||bidjora.com^
 ||bidluck.pt^
 ||api-eu.bidmachine.io^
 ||api-us.bidmachine.io^
@@ -30863,6 +30866,7 @@
 ||page.bsigroup.com^
 ||pages.bsigroup.com^
 ||bsjusnip.com^
+||events.bsky.app^
 ||api.bsn.cloud^
 ||bsnl-tower.com^
 ||bsnl-tower.in^
@@ -31288,6 +31292,7 @@
 ||bulyiel.com^
 ||bum3.club^
 ||bumaikr.com^
+||bumaqblyqviw.fun^
 ||bumblecash.com^
 ||bumblesquirt.shop^
 ||bumhuetony.live^
@@ -52505,6 +52510,7 @@
 ||web.care.eehealth.org^
 ||eeheersoat.com^
 ||eehhabacgieacfjeaacg.world^
+||eehir.tech^
 ||eehuzaih.com^
 ||eekeeghoolsy.com^
 ||eekreeng.com^
@@ -65814,6 +65820,7 @@
 ||gleetresis.com^
 ||glegendspro.com^
 ||glelda-motoonline.pl^
+||gleloamseft.xyz^
 ||glelroalso.xyz^
 ||377gopalpur.glemhyts.website^
 ||beta.glenbowcollege.ca^
@@ -66668,6 +66675,7 @@
 ||t.goduquesne.com^
 ||godzinaprawdy.rest^
 ||goeco.mobi^
+||goeducklactase.com^
 ||partner.goelite.club^
 ||www.goem.pl^
 ||goemailwizards.com^
@@ -67838,6 +67846,7 @@
 ||graptaupsi.net^
 ||graptolitesudner.life^
 ||ff-member.grarena.vn^
+||grashaksoudry.net^
 ||graspinginfinity.org^
 ||graspoffers.com^
 ||tr.emailing.grassavoye.com^
@@ -71624,6 +71633,7 @@
 ||hhkld.com^
 ||hhll.app^
 ||hhllyt.com^
+||hhndmpql.com^
 ||hhooyivpxq.com^
 ||hhrerv.xyz^
 ||hhsp2.com^
@@ -81170,6 +81180,7 @@
 ||iwebtrack.com^
 ||pro.iweihai.cn^
 ||iweiweb.com^
+||iweizao.top^
 ||upltew.iwellps.com^
 ||mjkhdw.iwettefashion.pl^
 ||contact.iwgplc.com^
@@ -83776,6 +83787,7 @@
 ||eofjtw.jjshouse.se^
 ||jjssportsbar.com^
 ||jjvkbzdungkop.com^
+||jjvpbstg.com^
 ||jjvzqjh.xyz^
 ||jjyx.com^
 ||jjztrz.xyz^
@@ -88365,6 +88377,7 @@
 ||counter.ksosoft.com^
 ||dw-collect.ksosoft.com^
 ||ic.ksosoft.com^
+||kspmaaiayadg.com^
 ||kspotson.de^
 ||stats.ksr.onl^
 ||ksrinternationaltrade.com^
@@ -94011,6 +94024,7 @@
 ||luuce.jp^
 ||luuming.com^
 ||rtneys.luuna.mx^
+||luunels.com^
 ||luvaihoo.com^
 ||app.luve.tv^
 ||luvieessentials.com^
@@ -94706,6 +94720,7 @@
 ||mva1.maeva.com^
 ||xjzize.maeva.com^
 ||tongji.mafengwo.cn^
+||mafflerplaids.com^
 ||top100.mafia.ru^
 ||mafiaemptyknitting.com^
 ||marketing.mafiahairdresser.com^
@@ -101500,6 +101515,7 @@
 ||hblock-check.molinero.dev^
 ||analytics.molistar.com^
 ||molksakk.info^
+||mollesscar.top^
 ||wrvueo.mollis.ru^
 ||mollybabes.com^
 ||tracking.mollyladies.de^
@@ -106159,6 +106175,7 @@
 ||neesihoothak.net^
 ||neess105.top^
 ||neevkivmi.shop^
+||neewouwoafisha.net^
 ||neezausu.net^
 ||nefdcnmvbt.com^
 ||rokushiki.nefficient.jp^
@@ -108515,6 +108532,7 @@
 ||nodearth.mom^
 ||nodeclaim.com^
 ||analytics.nodecraft.com^
+||utics.nodejibi.in^
 ||nodekindle.rest^
 ||evru.nodent.top^
 ||nodice.click^
@@ -110643,6 +110661,7 @@
 ||tracking.info.oegig.at^
 ||oehcxmhk.xyz^
 ||oehgk.com^
+||matomo.oekoloewe.de^
 ||oem-sportswear.com^
 ||oeomo6qiv.top^
 ||track.oequilibrionatural.com^
@@ -117704,6 +117723,7 @@
 ||data-8dffad7d98.photovoltaik.eu^
 ||data-c7fa2f50f1.photovoltaik.eu^
 ||a.photowonder.net^
+||phouckusogh.net^
 ||phoumsoomsoh.com^
 ||phoutchounse.com^
 ||phouvemp.net^
@@ -118175,6 +118195,7 @@
 ||piorkopo.hair^
 ||piosenkanaszkle.pl^
 ||kkrakowka.piotroemilian.sklep.pl^
+||piotyo.xyz^
 ||piouscheers.com^
 ||piousis.top^
 ||piouspoemgoodnight.com^
@@ -118450,6 +118471,7 @@
 ||pj5189.com^
 ||pjagilteei.com^
 ||pjatr.com^
+||pjb9gv9.xyz^
 ||pjcruvrvjycs.top^
 ||pjdthz.xyz^
 ||pjhku.com^
@@ -122051,6 +122073,7 @@
 ||go.priviahealth.com^
 ||metrics.privilege.com^
 ||smetrics.privilege.com^
+||privilegedmansfieldvaguely.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
@@ -126849,6 +126872,7 @@
 ||smetrics.pudahuel.cl^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
+||pudicalnablus.com^
 ||puertojambs.com^
 ||puerty.com^
 ||marketing.puffininn.net^
@@ -127612,6 +127636,7 @@
 ||qceatqoqwpza.com^
 ||qcerujcajnme.com^
 ||qchannel04.cn^
+||qcixkb1.xyz^
 ||qcjslm.com^
 ||qcl777.com^
 ||log.qvb.qcloud.com^
@@ -131910,6 +131935,7 @@
 ||analytics.rever.vn^
 ||event-api.reverb.com^
 ||planarian.reverberate.org^
+||reverercowier.com^
 ||reverieingethereales.pro^
 ||booking.reverified-guest-27812.com^
 ||reverita-t.jp^
@@ -136209,6 +136235,7 @@
 ||nhlvvh.sawadee.nl^
 ||sawantexim.com^
 ||sawasdeeplus.com^
+||sawdustreives.top^
 ||saweathercock.info^
 ||sawelver.de^
 ||sawfluenttwine.com^
@@ -139573,6 +139600,7 @@
 ||a8clk.shokutakubin.com^
 ||help.shokz.com^
 ||sholke.com^
+||sholraidsoalro.net^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
 ||shoneysofmorgantown.com^
@@ -170613,6 +170641,7 @@
 ||wecouldle.com^
 ||wecount4u.com^
 ||wecume.net^
+||wedauspicy.com^
 ||weddinbox.com^
 ||weddingbridal.com.vn^
 ||weddingeeos.com^
@@ -171579,6 +171608,7 @@
 ||webtracker.wheels.com^
 ||wheelsbullyingindolent.com^
 ||wheelscomfortlessrecruiting.com^
+||wheelsetsur.net^
 ||wheelssightsdisappointed.com^
 ||wheelstweakautopsy.com^
 ||wheelswag.xyz^
@@ -179107,6 +179137,7 @@
 ||zininopstonline.one^
 ||insights.zinio.com^
 ||zinipx.xyz^
+||zinniafianced.com^
 ||marketing.zinniawealth.com^
 ||zinniazen.cam^
 ||zinodo.today^
