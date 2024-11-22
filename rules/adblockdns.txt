@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241122161957
-! Last modified: 2024/11/22 16:19:57
-! Blocked domains: 151633
+! Version: 20241123001939
+! Last modified: 2024/11/23 00:19:39
+! Blocked domains: 151641
 ! unBlocked domains: 41
 !
 ||640186f930.04de88565b.com^
@@ -36118,6 +36118,7 @@
 ||ctoosqtuxgaq.com^
 ||ctosrd.com^
 ||t810.ctpost.com^
+||apps-pbd.ctraffic.io^
 ||ctrck.com^
 ||ctrdwm.com^
 ||ctrhub.com^
@@ -41433,6 +41434,7 @@
 ||dmg0877nfcvqj.cloudfront.net^
 ||cmp.dmgmediaprivacy.co.uk^
 ||dmhbbivu.top^
+||dmhclkohnrpvg.com^
 ||dmincorporation.com^
 ||dmiredindeed.com^
 ||dmkdtkad2jyb9.cloudfront.net^
@@ -42569,6 +42571,7 @@
 ||www.drenchedinlogs.com^
 ||drenchsealed.com^
 ||drendragon.com^
+||drenqils.com^
 ||drenticor.shop^
 ||drepanidaemmyge.info^
 ||drepersonalinjury.com^
@@ -51816,6 +51819,7 @@
 ||img.foodspring.se^
 ||foodstorage.news^
 ||trackingapi.foody.vn^
+||fooguthauque.net^
 ||ads.fool.com^
 ||vrzmfy.fool.com^
 ||foolishjunction.com^
@@ -58423,6 +58427,7 @@
 ||guccimenjpsale.com^
 ||aqc.gucheng.com^
 ||guchihyfa.pro^
+||guckoash.net^
 ||info.gucu.org^
 ||mailer.gucu.org^
 ||gudangbanner.com^
@@ -75323,6 +75328,7 @@
 ||kwcrf.net^
 ||kwdflqos.com^
 ||kwedzcq.com^
+||kweizad.top^
 ||kwekii.com^
 ||kwestiastabilnosci.com^
 ||kwgefe.com^
@@ -107904,6 +107910,7 @@
 ||rcoproperty.com.au^
 ||rclog.rcplatformhk.com^
 ||rcqqlwb.cn^
+||rcqwmwxdvnt.com^
 ||rcraveoisanikc.com^
 ||revi.rcs.it^
 ||rcsadv.it^
@@ -125825,6 +125832,7 @@
 ||i.tct-rom.com^
 ||tctm.co^
 ||tctombola.com^
+||tcvjhwizmy.com^
 ||a.tcyclops.com^
 ||tcyh.net^
 ||tczdym.com^
