@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241201161843
-! Last modified: 2024/12/01 16:18:43
-! Blocked domains: 158245
+! Version: 20241202001717
+! Last modified: 2024/12/02 00:17:17
+! Blocked domains: 158249
 ! unBlocked domains: 49
 !
 ||allegrolokalnie.0-103-a0-10.shop^
@@ -4170,7 +4170,6 @@
 ||accord-adoration.com^
 ||accordancespotted.com^
 ||accordinglyair.com^
-||account-cfe.mx^
 ||account-infos-pl.com^
 ||account-myrbc.com^
 ||login.account-play-pl.com^
@@ -27792,6 +27791,7 @@
 ||smetrics.atlantic.caa.ca^
 ||news.caamp.org^
 ||caanalytics.com^
+||caaqot.com^
 ||dl.caavo.com^
 ||cabaral.com^
 ||cabarrustoday.com^
@@ -45591,6 +45591,7 @@
 ||backstory.ebay.ie^
 ||backstory.ebay.pl^
 ||ebay8989.shop^
+||ebayadservices.com^
 ||ebayadvertising.com^
 ||ebayasean.com^
 ||www.ebaybanner.com^
@@ -47505,7 +47506,6 @@
 ||s46849916.sc.origins.en25.com^
 ||s615419487.sc.origins.en25.com^
 ||s861531437.sc.origins.en25.com^
-||en407etr.com^
 ||en5wr67sag3.com^
 ||en8plusinf.com^
 ||enablerubbingjab.com^
@@ -60578,6 +60578,7 @@
 ||lines-metric.h16.ru^
 ||drrt.h18.ru^
 ||h1l.cc^
+||h1v3fa.com^
 ||knvyzx.h201shift.com^
 ||h21.ru^
 ||ads.h2porn.com^
@@ -73513,6 +73514,7 @@
 ||trvonu.k-manga.jp^
 ||kads.k-network.com^
 ||k-oggwkhhxt.love^
+||k-tozluxury.shop^
 ||affiliate.k-uno.co.jp^
 ||enot.k-yroky.ru^
 ||data-a9b566d4a7.k.at^
@@ -91340,6 +91342,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -112446,6 +112449,7 @@
 ||reflushneuma.com^
 ||refnippod.com^
 ||sys.refocus.ru^
+||reforest-iita.org^
 ||dl.reforged.gg^
 ||stingray.reform.app^
 ||reformal.ru^
@@ -122359,7 +122363,6 @@
 ||ape.smartplanschema.se^
 ||panel.smartpoint.pro^
 ||zzqyxd.smartpozyczka.pl^
-||smartproduct.site^
 ||smartpush0.info^
 ||smartpush1.info^
 ||smartpush3.info^
@@ -148376,6 +148379,7 @@
 ||lol.wcy2.com^
 ||wda.com^
 ||trk.wdacashtrk.com^
+||wdamcse.top^
 ||wdavrzv.com^
 ||metrics.wdc.com^
 ||wdcigo.xyz^
@@ -157120,7 +157124,6 @@
 ||sys.zhangyue.com^
 ||saad.ms.zhangyue.net^
 ||smad.ms.zhangyue.net^
-||bookbk.img.zhangyue01.com^
 ||zhangyumo.top^
 ||zhangyunxiawinner.top^
 ||zhanzhang.net^
@@ -157305,6 +157308,7 @@
 ||dash.zintrack.com^
 ||zinturax.com^
 ||zinubyy.com^
+||zio8.icu^
 ||ziololecznictwo.pl^
 ||app.zmail.zionsbank.com^
 ||tc.zionsbank.com^
