@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241202001717
-! Last modified: 2024/12/02 00:17:17
-! Blocked domains: 158249
+! Version: 20241202091443
+! Last modified: 2024/12/02 09:14:43
+! Blocked domains: 158251
 ! unBlocked domains: 49
 !
 ||allegrolokalnie.0-103-a0-10.shop^
@@ -31905,6 +31905,7 @@
 ||vinted-pl-gj32d.cid-net.com^
 ||cidefenders.com^
 ||cideparenhem.com^
+||cidhmxxb.icu^
 ||cidiamond.com^
 ||i.cidianwang.com^
 ||cidingenieria.com^
@@ -117601,6 +117602,7 @@
 ||scoklahomanews.com^
 ||a8cv.scom-f.jp^
 ||scomaninteractive.com^
+||sconat.com^
 ||sconotaeger.xyz^
 ||analytics-api.sconto.cz^
 ||sconvtrk.com^
