@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241204001931
-! Last modified: 2024/12/04 00:19:31
-! Blocked domains: 154079
+! Version: 20241204091348
+! Last modified: 2024/12/04 09:13:48
+! Blocked domains: 154084
 ! unBlocked domains: 45
 !
 ||04tips.com^
@@ -19486,7 +19486,6 @@
 ||www.newsletter.banquepopulaire.fr^
 ||banquetpettyduchess.com^
 ||banquetunarmedgrater.com^
-||banregio.com^
 ||ww1.banrural.com^
 ||banselaunswear.casa^
 ||bansoengsang.com^
@@ -28823,7 +28822,6 @@
 ||bsjusnip.com^
 ||bsnl-tower.com^
 ||bsnl-tower.in^
-||bsnltower.com^
 ||bsnltowerinstallations.com^
 ||bsnltowersite.in^
 ||l.bspace.io^
@@ -31064,6 +31062,7 @@
 ||partner.caskrmeni.cz^
 ||casksguest.com^
 ||webcontr.caso-design.de^
+||bitanalytics.casperverswijvelt.be^
 ||caspiancraft.com^
 ||caspion.com^
 ||caspionlog.appspot.com^
@@ -67107,6 +67106,7 @@
 ||imgot.site^
 ||imgprime.com^
 ||imgsdn.com^
+||media-advcycle.imgsmail.ru^
 ||imgsynd.com^
 ||ads.imguol.com^
 ||bn.imguol.com^
@@ -82413,6 +82413,7 @@
 ||lumpylumber.com^
 ||lumpyouter.com^
 ||lumtogle.net^
+||lumvkebr.icu^
 ||lumxts.com^
 ||lynx.lumy.network^
 ||orbit.lun.ua^
@@ -92269,6 +92270,7 @@
 ||navi72.ru^
 ||navi77.com^
 ||navi8.com^
+||navi83.ru^
 ||navi88.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
@@ -97882,6 +97884,7 @@
 ||op01.biz^
 ||op02.biz^
 ||op05.biz^
+||op3xdork.xyz^
 ||opabsolr.top^
 ||opads.us^
 ||opalekogroszek.pl^
@@ -100307,7 +100310,6 @@
 ||papy-voyeur.com^
 ||gzlxvg.papy.co.jp^
 ||paquete-entregar.top^
-||paquetsuivi7noti.com^
 ||nice.par-even.com^
 ||para-usa.com^
 ||parabit.ru^
@@ -117640,6 +117642,7 @@
 ||scrollye.com^
 ||stat.scroogefrog.com^
 ||bl.scroopcompole.com^
+||scroscoi.com^
 ||scru.cn^
 ||scrubheiress.com^
 ||scruboutdoorsoffensive.com^
@@ -123778,6 +123781,7 @@
 ||i.spyn.co^
 ||thanecityfc.spyn.co^
 ||spyoff.com^
+||spyokjoxdl.com^
 ||spysamesent.live^
 ||spysubstance.com^
 ||spywarebegone.com^
@@ -152904,6 +152908,7 @@
 ||zerostear.world^
 ||go.zerotothree.org^
 ||zttemail.zerotothree.org^
+||zerowasteinitiative.com^
 ||zesep.com^
 ||zeshanhaider.com^
 ||zestkefalonia.com^
