@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241211162117
-! Last modified: 2024/12/11 16:21:17
-! Blocked domains: 168581
+! Version: 20241212002012
+! Last modified: 2024/12/12 00:20:12
+! Blocked domains: 168613
 ! unBlocked domains: 44
 !
 ||028panpan.com^
@@ -3905,6 +3905,7 @@
 ||f769af9bbc.a6e8080fb1.com^
 ||a7.org^
 ||e94eae9daf.a72467ec08.com^
+||a7c.icu^
 ||a7f851c6ab.com^
 ||a7shun.com^
 ||a8.net^
@@ -17858,6 +17859,7 @@
 ||fclick.baidu.com^
 ||fclog.baidu.com^
 ||fexclick.baidu.com^
+||fxgate.baidu.com^
 ||g.baidu.com^
 ||gsp1.baidu.com^
 ||hmma.baidu.com^
@@ -17866,6 +17868,7 @@
 ||kstj.baidu.com^
 ||log.music.baidu.com^
 ||lookup.api.bsb.baidu.com^
+||luimg.baidu.com^
 ||mipengine.baidu.com^
 ||mobads.baidu.com^
 ||mobads-logs.baidu.com^
@@ -33645,6 +33648,7 @@
 ||clairecluttercoach.com^
 ||clairedeco.shop^
 ||clairekabobs.com^
+||clairpixum.com^
 ||claitors.com^
 ||ve1.claker.top^
 ||clammytree.com^
@@ -41133,7 +41137,19 @@
 ||data-ace571875f.das-onlinespiel.de^
 ||data-a764ba99aa.das-pta-magazin.de^
 ||mail.dasac.org^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||dasegelimer.shop^
 ||dasensiblem.org^
 ||dasesiumworkhovdimi.info^
@@ -45658,6 +45674,7 @@
 ||dosagebreakfast.com^
 ||dosamurottom.com^
 ||trk.dosatron.com^
+||dosawes.com^
 ||dosconsiderate.com^
 ||dosctrudnosci.click^
 ||doseadraa.com^
@@ -70845,6 +70862,7 @@
 ||inboxsecurity-mygov.com^
 ||inbrowserplay.com^
 ||inc-account-help-center.com^
+||f793.inc.com^
 ||inc88th.com^
 ||partneri.incacollagen.eu^
 ||incacsaw.top^
@@ -75245,8 +75263,10 @@
 ||jcyjly.com^
 ||pic.jd-bbs.com^
 ||eokzre.jd-sports.com.au^
+||addata.jd.com^
 ||ads.union.jd.com^
 ||c-nfa.jd.com^
+||ccc-x.jd.com^
 ||du.jd.com^
 ||jrad.jd.com^
 ||mercury.jd.com^
@@ -75254,6 +75274,8 @@
 ||orbit.jd.com^
 ||policy.jd.com^
 ||u-x.jd.com^
+||uranus.jd.com^
+||wl.jd.com^
 ||x.jd.com^
 ||jd2ujc.cn^
 ||jd3j7g5z1fqs.com^
@@ -85012,6 +85034,7 @@
 ||ljdofz.xyz^
 ||emarketing.ljhooker.com^
 ||ljilhqfh.top^
+||ljimtyl.top^
 ||ljjskttqximu.in^
 ||ljpbtjq.xyz^
 ||ljqq93npbr.com^
@@ -86525,6 +86548,7 @@
 ||lustasserted.com^
 ||lustroushaven.com^
 ||lusupeiley.live^
+||lusupodum.com^
 ||lutachechu.pro^
 ||01daa.lutci.com^
 ||lutelu.com^
@@ -109844,6 +109868,7 @@
 ||playgirl.com^
 ||playgo88.asia^
 ||playgo88.top^
+||playgooglevn.vip^
 ||install.playgpl.com^
 ||playgrandcasino.com^
 ||playgril.com^
@@ -117948,6 +117973,7 @@
 ||agstat.html5.qq.com^
 ||analy.qq.com^
 ||api.youtu.qq.com^
+||appcfg.v.qq.com^
 ||appsupport.qq.com^
 ||as.weixin.qq.com^
 ||beacon.qq.com^
@@ -117979,6 +118005,7 @@
 ||j.wit.qq.com^
 ||jpush.html5.qq.com^
 ||jqmt.qq.com^
+||kde.qq.com^
 ||l.qq.com^
 ||lcsdk.3g.qq.com^
 ||livep.l.ott.video.qq.com^
@@ -137093,6 +137120,7 @@
 ||suxaucmuny.com^
 ||suxoxmnwolun.com^
 ||a8cv.suzaku.or.jp^
+||suzalsln.com^
 ||suzanne.pro^
 ||suzanneboswell.top^
 ||suzbcnh.com^
@@ -138681,6 +138709,7 @@
 ||umengjmacs.m.taobao.com^
 ||w.m.taobao.com^
 ||wb.110.taobao.com^
+||wcp.taobao.com^
 ||strip.taobaocdn.com^
 ||taobeike.com^
 ||taodianla.com^
@@ -145276,6 +145305,7 @@
 ||bake.toucan-house.com^
 ||present.toucan-house.com^
 ||toucanjs.com^
+||api.touch-moblie.com^
 ||active-olx.touch-tech.shop^
 ||touchads.com^
 ||abv3-tslogging.touchcommerce.com^
@@ -148817,6 +148847,7 @@
 ||twinboutjuly.com^
 ||twinbuds.com^
 ||static.twincdn.com^
+||f703.twincities.com^
 ||twinfill.com^
 ||twinkle-fun.net^
 ||twinklebro.sbs^
@@ -156081,6 +156112,7 @@
 ||vksex.ru^
 ||vksphze.com^
 ||vkv2nodv.xyz^
+||mytop.live.vkvideo.ru^
 ||vkwaeo.com^
 ||b.candy.vl.ru^
 ||dante.vl.ru^
