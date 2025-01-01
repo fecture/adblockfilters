@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250101091323
-# Last modified: 2025/01/01 09:13:23
-# Blocked domains: 6058
+# Version: 20250101161906
+# Last modified: 2025/01/01 16:19:06
+# Blocked domains: 6055
 #
 local=/00xvppy.cn/
 local=/img.0279.net/
@@ -1883,7 +1883,6 @@ local=/a.exam58.com/
 local=/excsyrv.cn/
 local=/ad.exyws.org/
 local=/eyouv.cn/
-local=/ez4q2.cn/
 local=/qp.ezfxpuo.cn/
 local=/g.f11w.com/
 local=/c1313.f28014.cn/
@@ -2294,7 +2293,6 @@ local=/hfisngksng.com/
 local=/jascce-member.hfmtpw.cn/
 local=/jaccs-stupie.hfntbd.cn/
 local=/wap.hfoyjg.cn/
-local=/jaccs-eosify.hfytjm.cn/
 local=/jaccs-polic.hfytjr.cn/
 local=/jaccs-therm.hfytjs.cn/
 local=/d.hgame.com/
@@ -3768,6 +3766,7 @@ local=/mm.paizi.net/
 local=/palm-ad.cn/
 local=/vip.panggugu.com/
 local=/panyh123456.cn/
+local=/paonancs.cn/
 local=/papayamobile.com/
 local=/analytics.partnerboost.com/
 local=/bt1.patexplorer.com/
@@ -5222,7 +5221,6 @@ local=/ids-dmp.vpadn.com/
 local=/m.vpadn.com/
 local=/tw-api.vpadn.com/
 local=/vpsgu.cn/
-local=/vrbrothers.com/
 local=/vsnoon.com/
 local=/vsojfsoj.com/
 local=/static.vuevideo.net/
@@ -5711,7 +5709,6 @@ local=/ymdxl.com/
 local=/gw-iad-bid.ymmobi.com/
 local=/www.ynbojie.com/
 local=/ad123.ynet.com/
-local=/www.ynxi.cn/
 local=/m.yocvn.com/
 local=/webtrans.yodao.com/
 local=/ocd.yodo1api.com/
