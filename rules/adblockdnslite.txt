@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250212090713
-! Last modified: 2025/02/12 09:07:13
-! Blocked domains: 6109
+! Version: 20250212161932
+! Last modified: 2025/02/12 16:19:32
+! Blocked domains: 6124
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -129,6 +129,7 @@
 ||163ns.com^
 ||ac.dun.163yun.com^
 ||ye.dun.163yun.com^
+||165tchuang.com^
 ||dmtracking.1688.com^
 ||match.p4p.1688.com^
 ||js.1688988.com^
@@ -143,7 +144,6 @@
 ||trk1.17admob.com^
 ||17kxgame.com^
 ||17u.cn^
-||1905715.com^
 ||198game.com^
 ||1999019.com^
 ||st.19mi.net^
@@ -702,7 +702,6 @@
 ||logs.amap.com^
 ||optimus-ads.amap.com^
 ||advertising.amazon.cn^
-||amazon8828.net^
 ||log.amemv.com^
 ||log0-misc-alinc2.amemv.com^
 ||log0-misc-lf.amemv.com^
@@ -979,8 +978,8 @@
 ||q.baminw.com.cn^
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
+||a.baomihua.com^
 ||djs.baomihua.com^
-||resource.baomihua.com^
 ||bartender.cc^
 ||webpage.batianhu.cn^
 ||baxbyfn.cn^
@@ -1183,6 +1182,7 @@
 ||creative.bxsnews.com^
 ||bxwccii.cn^
 ||correosytelegrafos.bxze.cn^
+||monitor-frontend-collector.a.bybit-aws.com^
 ||bydcxdy.cn^
 ||byscy.cn^
 ||log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com^
@@ -1211,6 +1211,8 @@
 ||dispatcher.c360dn.com^
 ||dispatcher-bsy.c360dn.com^
 ||gg.caixin.com^
+||pinggai5.caixin.com^
+||promote.caixin.com^
 ||ad.caiyunapp.com^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
@@ -1347,8 +1349,16 @@
 ||rapi.cmgadx.com^
 ||cmgjqqu.cn^
 ||config.cmpassport.com^
+||config001.cmpassport.com^
+||config1.cmpassport.com^
+||config2.cmpassport.com^
+||dnconfig.cmpassport.com^
+||dnlog.cmpassport.com^
+||log-h5.cmpassport.com^
+||log001.cmpassport.com^
 ||log1.cmpassport.com^
 ||log2.cmpassport.com^
+||senlog.cmpassport.com^
 ||cmpxaup.cn^
 ||ggc.cmvideo.cn^
 ||ggic.cmvideo.cn^
@@ -1610,7 +1620,6 @@
 ||downloada.dewmobile.net^
 ||dexinyi.cn^
 ||dfhag.cn^
-||dfkd.xyz^
 ||newswifiapi.dfshurufa.com^
 ||dg186.cn^
 ||dgbaozhuang.cn^
@@ -2094,7 +2103,6 @@
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
 ||accounts.google.sn.cn^
-||translate.google.sn.cn^
 ||clickserver.googleads.com^
 ||googleadservices-cn.com^
 ||googleadservices.com^
@@ -2190,6 +2198,7 @@
 ||haixiutv.com^
 ||halct.cn^
 ||mo.haloapps.cn^
+||haloapps.com^
 ||g.haluoha.com^
 ||go.hangzhou.com.cn^
 ||hanlanad.com^
@@ -2532,6 +2541,7 @@
 ||iimedia.cn^
 ||www.iiyout.cn^
 ||ijinshan.com^
+||daima.ijq.tv^
 ||ijvla.cn^
 ||ili100.cn^
 ||ilkwork.com^
@@ -2713,6 +2723,7 @@
 ||union.click.jd.com^
 ||union.m.jd.com^
 ||uranus.jd.com^
+||x.jd.com^
 ||xlog.jd.com^
 ||jd2ujc.cn^
 ||pic.jdbbs.com^
@@ -2729,7 +2740,6 @@
 ||jhzfwl.cn^
 ||api.jialiangad.com^
 ||8961.jianbihua.com^
-||wj.jiancai365.cn^
 ||ads.jianchiapp.com^
 ||xomk.jiangjunmh.top^
 ||1.jiangzheba.com^
@@ -3196,6 +3206,7 @@
 ||litchiads.com^
 ||liujiahao6.cn^
 ||v88.live800.com^
+||a.llysc.cn^
 ||lm665.com^
 ||bffbdo.lmsae.cn^
 ||lmwmm.com^
@@ -3385,6 +3396,7 @@
 ||log-upload-os.mihoyo.com^
 ||reksaidnslog.security.mihoyo.com^
 ||gg.miinaa.com^
+||360down7.miiyun.cn^
 ||mindmanager.cc^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
@@ -3835,7 +3847,6 @@
 ||ppxscy1.cn^
 ||pqzjki.cn^
 ||prlioxb.cn^
-||ff.psd8.com^
 ||dm.pstatp.com^
 ||pb3.pstatp.com^
 ||sf1-ttcdn-tos.pstatp.com^
@@ -3855,6 +3866,7 @@
 ||dm.pw0.cn^
 ||pxhuiben.com^
 ||cdn.pyadx.com^
+||pygokay.cn^
 ||pypwxvo.cn^
 ||pzkrgcp.cn^
 ||q36.cn^
@@ -3935,6 +3947,7 @@
 ||oatdbtwdu.qnssl.com^
 ||ohrgflbcm.qnssl.com^
 ||qooic.com^
+||gvideo.qpic.cn^
 ||mmgame.qpic.cn^
 ||act.qq.com^
 ||ad.qq.com^
@@ -4042,6 +4055,7 @@
 ||p2pupdate.gamedl.qq.com^
 ||p2pupgrade.gamedl.qq.com^
 ||pacaio.match.qq.com^
+||pcm-img.zhls.qq.com^
 ||pingjs.qq.com^
 ||pingma.qq.com^
 ||pingmid.qq.com^
@@ -4136,6 +4150,7 @@
 ||ysdk.qq.com^
 ||yun-hl.3g.qq.com^
 ||zxcv.3g.qq.com^
+||static.wxqcloud.qq.com.cn^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||qqainj.cn^
 ||a1.qqan.com^
@@ -4189,13 +4204,11 @@
 ||msgv6.qy.net^
 ||ad.qyer.com^
 ||hades.qyer.com^
-||u1.qyxxpd.com^
 ||qziuwzn.cn^
 ||r75tia.cn^
 ||a2.rabbitpre.com^
 ||event.raise3d.cn^
 ||rawmtft.cn^
-||rayjump.com^
 ||bespoke-analytics.razerapi.com^
 ||rbioclv.cn^
 ||rbrbr88p.cn^
@@ -4265,7 +4278,6 @@
 ||rz261.cn^
 ||rzfdbsn.cn^
 ||rzflhxn.cn^
-||rzlib.net^
 ||rznscya.cn^
 ||rzsgxmm.cn^
 ||s11.cn^
@@ -4323,6 +4335,7 @@
 ||logstat.t.sfht.com^
 ||wwwv.smbc-card.harmonize.sfhzl.cn^
 ||track.sgdmobile.com^
+||sglyd.cn^
 ||sgru.cn^
 ||ini.sh-pp.com^
 ||eywvko.shaddy.jp^
@@ -4617,7 +4630,6 @@
 ||api.taboola.sve.cc^
 ||svhdbmp.cn^
 ||fr.swissquote.cn^
-||cgrvtlhz.swkxh.cn^
 ||opohpmcdz.swkxh.cn^
 ||cdn0.sxhjty.cn^
 ||sxk9m8x.cn^
@@ -4893,6 +4905,7 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||cnzz.trafficmanager.net^
+||gifcdncn.trafficmanager.net^
 ||analysis.tratao.com^
 ||ta.trs.cn^
 ||trustutn.org^
@@ -5104,6 +5117,7 @@
 ||n-st.vip.com^
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
+||ckg.vipyl.com^
 ||smetrics.visitsingapore.com.cn^
 ||bhwkju.vivo.com^
 ||adlog.vivo.com.cn^
@@ -5405,8 +5419,8 @@
 ||wwads.cn^
 ||wwjtdjj.cn^
 ||wwwv.smbc-card.serveion.wwwsei.cn^
+||1500020991.vodplayer.wxamedia.com^
 ||cns.wxdal.cn^
-||wxdgut.cn^
 ||wxdqgmr.cn^
 ||wy213.com^
 ||wyfec.cn^
@@ -5772,6 +5786,7 @@
 ||www.ynbojie.com^
 ||yncjsc.cn^
 ||ad123.ynet.com^
+||www.ynrubber.cn^
 ||www.ynxi.cn^
 ||webtrans.yodao.com^
 ||ocd.yodo1api.com^
@@ -5936,6 +5951,7 @@
 ||api-analytics-de.zepp.com^
 ||api-analytics-us.zepp.com^
 ||api-analytics-us3.zepp.com^
+||app-analytics.zepp.com^
 ||app-analytics-de.zepp.com^
 ||app-analytics-ru.zepp.com^
 ||app-analytics-sg.zepp.com^
@@ -5985,7 +6001,6 @@
 ||jy.zhongxues.com^
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
-||zhuozhongfangshui.cn^
 ||fdfda.zhuzhai.com^
 ||zhzzx.com^
 ||znrq.zifwxq.cn^
